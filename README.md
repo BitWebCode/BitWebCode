@@ -5,10 +5,10 @@ I enjoy building clean, responsive websites and am always excited to learn and g
 I love perfecting UI designs — every pixel matters! 🎯✨
 
 ---
-
 <div style="overflow: hidden;">
-  <img src="https://github.com/user-attachments/assets/a1c57681-ca2b-46a2-9b32-4eca822d1871" width="400" align="right" style="margin-left: 20px;"/>
+  <img src="https://github.com/user-attachments/assets/a1c57681-ca2b-46a2-9b32-4eca822d1871" width="400" align="right" style="margin-left: 20px;" />
 </div>
+
 
 🔭 **Currently working on:**  
 Improving my frontend skills through personal projects using HTML, CSS, and JavaScript.
