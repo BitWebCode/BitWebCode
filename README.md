@@ -5,31 +5,19 @@ I enjoy building clean, responsive websites and am always excited to learn and g
 I love perfecting UI designs — every pixel matters! 🎯✨
 
 ---
-<div style="overflow: hidden;">
-  <img src="https://github.com/user-attachments/assets/1c512861-cbf0-4619-91f3-c7f47bc359cb" width="400" align="right" style="margin-left: 20px;" />
-</div>
+## 📌 Quick Info
 
-🔭 **Currently working on:**  
-Improving my frontend skills through personal projects using HTML, CSS, and JavaScript.
+🔧 **Working on:** Personal frontend projects using **HTML**, **CSS**, and **JavaScript**  
+📚 **Currently learning:** **React.js**, **Tailwind CSS**, and responsive design techniques  
+🤝 **Collaboration:** Open to working on frontend & open-source web development projects  
+💡 **Need help with:** Advanced React concepts & real-world project structure  
+💬 **Ask me about:** HTML, CSS, JS basics, or starting your frontend dev journey  
+📬 **Contact me at:** **priyanshu14may@gmail.com**  
+😄 **Pronouns:** He/Him  
+✨ **Fun fact:** I can spend hours perfecting a UI — pixel by pixel! 
 
-🌱 **Currently learning:**  
-React.js, Tailwind CSS, and responsive design best practices.
-
-👯 **Looking to collaborate on:**  
-Frontend or open-source web development projects.
-
-🤝 **Looking for help with:**  
-Advanced React concepts and real-world application structures.
-
-💬 **Ask me about:**  
-Frontend basics — HTML, CSS, JavaScript, or how to start as a web developer.
-
-📫 **Reach me at:**  
-✉️ **priyanshu14may@gmail.com**
-
-😄 **Pronouns:** He/Him
-
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BitWebCode&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-frontend-visionary) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@TechByteCodeX) 
@@ -47,8 +35,7 @@ Frontend basics — HTML, CSS, JavaScript, or how to start as a web developer.
 ![](https://nirzak-streak-stats.vercel.app/?user=BitWebCode&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BitWebCode&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BitWebCode&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
